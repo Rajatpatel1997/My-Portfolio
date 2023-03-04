@@ -2389,6 +2389,11 @@ html.no-csstransitions .home-content__main {
     position: relative;
     overflow: hidden;
 }
+.item-folio1 {
+    position: relative;
+    float: inline-start;
+    /* overflow: hidden; */
+}
 
 .item-folio__thumb img {
     vertical-align: top;
